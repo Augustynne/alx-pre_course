@@ -1,2 +1,2 @@
-echo 'My first readme' > README.md
+I am a full stack engineer 
 
